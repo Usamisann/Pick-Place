@@ -38,6 +38,3 @@ To open and use the files in this project, you will need the following software:
 - **André Toumbi**
 - **Alassane Ndour**
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
